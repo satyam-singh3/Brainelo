@@ -51,8 +51,8 @@ This project was created through self-learning using YouTube tutorials, technica
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/satyam-singh3/brainelo.git
-cd brainelo
+git clone https://github.com/satyam-singh3/Brainelo.git
+cd Brainelo
 
 ### 2.Install Dependencies
 npm install
